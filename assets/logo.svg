@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="56" viewBox="0 0 270 56">
+  <circle cx="28" cy="28" r="26" fill="#2F6F4F"/>
+  <g transform="translate(28 31) scale(0.56)" fill="#FAF7F0">
+    <ellipse cx="0" cy="12" rx="15" ry="12"/>
+    <ellipse cx="-18" cy="-6" rx="5.5" ry="7.5" transform="rotate(-20 -18 -6)"/>
+    <ellipse cx="-6" cy="-17" rx="5.5" ry="8"/>
+    <ellipse cx="6" cy="-17" rx="5.5" ry="8"/>
+    <ellipse cx="18" cy="-6" rx="5.5" ry="7.5" transform="rotate(20 18 -6)"/>
+  </g>
+  <text x="66" y="27" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="bold" fill="#222222">Animal Guess</text>
+  <text x="66" y="45" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#6B6B6B">Twenty steps. One animal.</text>
+</svg>
