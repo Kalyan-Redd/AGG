@@ -32,6 +32,6 @@ Streamlit Community Cloud, main file `app.py`; paste the secrets under Settings 
 ## Known limits
 Stats are kept per browser session and reset on refresh.
 
-## Who did what
-(Max. 2 short sentences per contributor. Also state which tools, e.g. AI assistants,
-you used, as your course requires.)
+## Who did 
+Developed
+by kalyan Reddy Gaddam
