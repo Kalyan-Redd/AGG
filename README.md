@@ -4,7 +4,7 @@ A Streamlit app: the computer picks a secret animal and you find it by chatting.
 Ask yes/no questions or guess at any time. An LLM answers in natural language and rates
 how useful each of your questions was.
 
-## Live APP: https://animalgame.streamlit.app/ 
+## Live App: https://animalgame.streamlit.app/ 
 
 ## Pages
 - **Play** - chat game (`st.chat_input`, `st.chat_message`) with 20 turns, 3 hints and a
